@@ -22,7 +22,7 @@ dataset = pd.read_csv('student_scores.csv')
 
 # In[3]:
 
-
+dataset.info
 dataset.shape
 
 
